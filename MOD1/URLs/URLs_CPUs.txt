@@ -1,0 +1,52 @@
+Procesadores 
+
+https://www.profesionalreview.com/2019/06/30/partes-de-un-procesador/
+
+Puertas lógicas
+
+https://view.genial.ly/61458dce2b51350dfee6f84b
+
+Fabricación procesadores
+
+https://www.youtube.com/watch?v=YroyIXq2Iz0
+
+Modelos INTEL
+
+https://www.intel.es/content/www/es/es/products/details/processors/core.html
+
+https://www.muycomputer.com/2021/02/17/procesadores-de-intel/
+
+https://es.wikipedia.org/wiki/Anexo:Microprocesadores_Intel
+
+
+Modelos AMD
+
+https://www.amd.com/es/processors
+
+https://www.profesionalreview.com/amd/
+
+https://www.profesionalreview.com/2019/08/26/procesador-amd-modelos/
+
+https://es.wikipedia.org/wiki/Anexo:Procesadores_AMD
+
+https://www.profesionalreview.com/2023/12/18/amd-epyc-turin-zen-5-zen-5c/
+
+ELBRUS
+
+https://es.wikipedia.org/wiki/Microprocesador_Elbr%C3%BAs#Elbr%C3%BAs-90mikro
+
+KX-6000
+
+https://www.profesionalreview.com/2020/04/11/zhaoxin-kx-6000-el-cpu-chino-se-compara-a-un-a10-9700-en-juegos/
+
+SHAKTI
+
+https://shakti.org.in/
+
+Proyecto EPI
+
+https://www.linuxadictos.com/epi-el-proyecto-de-microprocesador-de-europa.html#comments
+
+M1
+
+https://www.teknofilo.com/la-bestia-de-apple-esta-por-llegar-chip-m2-extreme-con-48-cores-cpu-y-128-cores-gpu/
