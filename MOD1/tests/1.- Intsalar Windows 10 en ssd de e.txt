@@ -1,0 +1,6 @@
+1.- Intsalar Windows 10 en ssd de equipos de montaje
+2.- Actualizados
+3.- Conectar disco sata hdd en equipo de montaje
+4.- Crear partición. Con Administración de discos NTFS 80GB
+5.- Crear un disco VHD en la partición del disco sata HDD 50GB
+6.- Montar el disco virtual y presentación en el sistema de directorios. (explorer.exe) 
