@@ -1,0 +1,15 @@
+Clonar con Clonezilla
+
+device to image con ssh
+
+Vídeos
+
+https://www.youtube.com/watch?v=F_HK4ZTXtMw
+
+https://www.youtube.com/watch?v=6LF21_Xtuws
+
+Texto
+https://www.juanluramirez.com/clonacion-local-remoto-multicast-clonezilla/
+https://www.sysadminsdecuba.com/2015/08/sysadmin-copia-de-seguridad-o-imagen-con-clonezilla/amp/
+
+
