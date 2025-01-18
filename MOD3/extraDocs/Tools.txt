@@ -43,6 +43,9 @@ https://www.bleachbit.org/download
 CCcleaner - 
 https://www.ccleaner.com/es-es/ccleaner/download
 
+Recuva -
+https://www.ccleaner.com/recuva/download
+
 Complete internet repair - 
 https://www.majorgeeks.com/files/details/complete_internet_repair.html
 
@@ -53,6 +56,15 @@ EverestUltimate - Aida64 -- Prueba de stress de hardware
 ====================
 Windows File recovery
 https://support.microsoft.com/es-es/windows/recuperar-archivos-perdidos-en-windows-10-61f5b28a-f5b8-3cc2-0f8e-a63cb4e1d4c4
+
+UFS explorer
+https://www.ufsexplorer.com/
+
+DiskGenius -
+https://www.diskgenius.com/download.php
+
+DiskDrill
+https://www.cleverfiles.com/data-recovery-software.html
 
 getdata back ---- recuperar data --
 https://www.runtime.org/data-recovery-software.htm
