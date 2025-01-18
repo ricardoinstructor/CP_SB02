@@ -1,0 +1,99 @@
+ChipGenius
+
+https://www.chipgenius.org/es/download-for-windows 
+https://www.usbdev.ru/files/chipgenius/
+
+FlashDrive 
+http://www.flashdrive-repair.com/
+
+
+Tools ssd
+http://vlo.name:3000/ssdtool/
+
+firmware 
+https://www.usbdev.ru
+
+https://flashboot.ru/files/file/380/
+
+testdisk - recuperar ficheros -
+https://www.cgsecurity.org/wiki/TestDisk_Download 
+
+h2testw - 
+https://h2testw.org/#download-h2testw
+
+hdd GURU - tools varias - 
+https://hddguru.com/software/
+
+Victoria - recupera discos - 
+https://hdd.by/victoria/
+
+CrystalDiskInfo - 
+https://crystalmark.info/en/software/crystaldiskinfo/
+
+Gibson - Varios Freeware - 
+https://www.grc.com/sr/spinrite.htm
+
+Disk Internals - 
+https://www.diskinternals.com/partition-recovery/the-drive-where-windows-is-installed-is-locked-unlock-now/
+
+================================
+Bleachbit - reemplazo cccleaner - 
+https://www.bleachbit.org/download
+
+CCcleaner - 
+https://www.ccleaner.com/es-es/ccleaner/download
+
+Complete internet repair - 
+https://www.majorgeeks.com/files/details/complete_internet_repair.html
+
+driver magician lite -- ver drivers que no son de sistema - 
+http://www.drivermagician.com/Lite.htm
+
+EverestUltimate - Aida64 -- Prueba de stress de hardware
+====================
+Windows File recovery
+https://support.microsoft.com/es-es/windows/recuperar-archivos-perdidos-en-windows-10-61f5b28a-f5b8-3cc2-0f8e-a63cb4e1d4c4
+
+getdata back ---- recuperar data --
+https://www.runtime.org/data-recovery-software.htm
+
+logos personalizados -- 
+https://github.com/Metabolix/HackBGRT/releases
+
+Nirsoft - varios - 
+https://www.nirsoft.net/utils/index.html
+
+furmark - stress de vídeo -- 
+https://www.techpowerup.com/download/furmark/
+
+============================
+
+ADWCleaner de Malwarebytes -- 
+https://www.malwarebytes.com/es/adwcleaner
+
+=============================
+SYSinternals - 
+https://learn.microsoft.com/es-es/sysinternals/ -- https://live.sysinternals.com/
+
+BatteryInfoView --- batería info - 
+https://www.nirsoft.net/utils/battery_information_view.html
+
+BlueScrreView -- debuger de volcados de BSOD - 
+https://www.nirsoft.net/utils/blue_screen_view.html
+
+CheckMon -- chequeo de monitores -- 
+https://www.softpedia.com/get/Tweak/System-Tweak/CheckeMON.shtml
+
+UniversalBiosBackupToolkit -- 
+https://www.majorgeeks.com/files/details/universal_bios_backup_toolkit.html
+
+KeyboardTest --- verificación de teclado -- 
+https://www.passmark.com/products/keytest/ -- (online) https://en.key-test.ru/
+
+Process explorer - detalle de procesos -- 
+https://learn.microsoft.com/es-es/sysinternals/downloads/process-explorer
+
+
+
+
+
