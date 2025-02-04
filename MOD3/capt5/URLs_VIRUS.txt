@@ -1,0 +1,42 @@
+Seguridad en la Empresa
+
+https://view.genial.ly/612a2ac1dabd400dbd0d5412/presentation-unidad-1-passwords
+https://view.genial.ly/612127a790fd540d98ebbeef/presentation-unidad2-identificacion-de-amenazasciberseguridad
+https://view.genial.ly/612a2ad31d85260dc4ece506/presentation-unidad-3-escaperoom-passwords
+
+ANTIVIRUS (comparaciones)
+
+https://www.adslzone.net/esenciales/windows-10/mejores-antivirus-windows-10/
+
+https://www.genbeta.com/a-fondo/once-mejores-antivirus-2022-para-windows-ahora
+
+https://www.pcworld.es/mejores-productos/seguridad/antivirus-windows-3675796/
+
+https://softwarelab.org/es/mejores-antivirus/
+
+
+Esteganografia
+
+https://www.esteganografia.com/
+
+https://ayudaleyprotecciondatos.es/metadatos/online/
+
+Manual nmap
+
+https://we.riseup.net/assets/77169/Manual-de-uso-de-Nmap.pdf
+
+https://nmap.org/man/es/index.html
+
+Netcat
+
+https://dl-manual.com/doc/manual-netcat-16vjqq1401ze
+
+https://parcheinformatico.wordpress.com/2020/08/01/shell-directa-y-shell-inversa-con-nectcat/
+
+Firewall windows 
+
+https://docs.microsoft.com/es-es/windows/security/threat-protection/windows-firewall/best-practices-configuring
+
+https://reparar.info/configuracion-de-reglas-de-firewall-de-windows-con-powershell/
+
+
