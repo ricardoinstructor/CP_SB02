@@ -1,0 +1,9 @@
+https://github.com/dbisu/pico-ducky
+https://github.com/SourasishBasu/PicoW-Ducky
+https://github.com/Garfield1002/pico-ducky-3.0
+https://github.com/TheR1D/pico-ducky-ui
+https://github.com/Li-amK/pico
+https://github.com/santosomar/rpi-pico-rubber-ducky-ctf
+https://github.com/leogout/rasper-ducky
+https://github.com/hak5/usbrubberducky-payloads
+https://payloadstudio.hak5.org/community/
