@@ -1,0 +1,120 @@
+Esquemáticos varias versiones
+
+https://github.com/raspberrypi/documentation/blob/develop/documentation/asciidoc/computers/raspberry-pi/raspberry-pi-schematics.adoc
+
+https://easyeda.com/editor#id=22bc09515fe34121855e3d7eb90711e4
+
+OFICIAL 
+
+https://www.raspberrypi.com/documentation/computers/raspberry-pi.html
+
+==========================================================================================================
+RADIO RASPBERRY PI 4
+
+Descargar:
+Faemino 
+https://mega.nz/file/MugT1aBI#JPNfTwm9kcgPjztSch_PYj0BSV8ovTpJVoNbX78A5Gc
+Groucho
+https://mega.nz/file/UihXla6b#G04hfLbmrF_nHhYOjMN0dTurfY__oaP_V3eIzJ3gcGE
+
+Conversores mp3_wav 
+
+https://cloudconvert.com/mp3-to-wav
+
+https://audio.online-convert.com/es/convertir-a-wav
+
+
+Crear el programa de emisión
+
+GPIO4 funciona ... cambiar a GPIO21 si no transmite (raro)
+
+https://linuxhint.com/turn-raspberry-pi-fm-transmitter/
+
+Emisión mp3 (más sencillo y formato más habitual)
+
+https://github.com/markondej/fm_transmitter/blob/master/README.md
+
+Ejemplo:
+sudo apt-get install sox libsox-fmt-mp3
+sox faemino.mp3 -r 22050 -c 1 -b 16 -t wav - | sudo ./fm_transmitter -f 87.5 -
+
+Para versión 32bits (no 64) Emisor con libreía de python
+
+http://razzpisampler.oreilly.com/ch01.html
+
+WEB SERVER en Raspbberry con Python (OJO!!! revisar la info)
+
+https://www.electromaker.io/tutorial/blog/how-to-make-a-raspberry-pi-python-web-server
+
+WEbcam accesible con motion
+
+https://www.instructables.com/How-to-Make-Raspberry-Pi-Webcam-Server-and-Stream-/
+
+webcam con python
+
+https://pyshine.com/Easy-video-streaming-in-raspberrypi-python/
+
+webcam accesible con PICAMERA (no funcional sin ella) 
+
+https://randomnerdtutorials.com/video-streaming-with-raspberry-pi-camera/
+
+
+===================================================================================
+
+Python
+
+¿Qué es?
+
+https://es.wikipedia.org/wiki/Python#:~:text=Python%20es%20un%20lenguaje%20de,%2C%20Panda%203D%2C%20entre%20otros.
+Iniciación
+
+https://wiki.python.org/moin/BeginnersGuide
+
+https://wiki.python.org/moin/SpanishLanguage
+
+Python en raspberri pi
+
+https://www.programoergosum.es/tutoriales/introduccion-a-python-en-raspberry-pi/
+
+Blockly/python
+
+https://www.codingrooms.com/compiler/python-block
+
+
+
+
+Rasspberry pi 4 DATASHEET
+
+https://datasheets.raspberrypi.com/rpi4/raspberry-pi-4-datasheet.pdf
+
+https://www.raspberrypi.com/documentation/computers/os.html
+
+Alternativos
+
+https://www.profesionalreview.com/2021/09/10/sistema-operativo-raspberry-pi/
+
+
+Raspberry FM
+
+https://soloelectronicos.com/2016/08/03/emisora-de-fm-con-raspberry-pi-2-sin-ningun-hw-adicional/
+
+Emisora de números
+
+https://www.simonroses.com/es/2020/10/tu-propia-emisora-de-numeros-espia-en-una-raspberry-pi/
+
+Boot USB o SD
+
+https://hardzone.es/tutoriales/componentes/como-arrancar-raspberry-pi-4-ssd-usb/
+
+https://blog.smittytone.net/2020/11/16/boot-a-raspberry-pi-from-usb-without-sd/
+
+
+
+
+
+
+
+
+
+
+
